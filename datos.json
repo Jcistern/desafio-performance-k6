@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://jsonplaceholder.typicode.com",
+  "post": {
+    "titulo": "Desafio Performance",
+    "cuerpo": "Test de carga con K6",
+    "userId": 2
+  },
+  "postId": 1,
+  "userId": 1
+}
